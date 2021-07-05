@@ -27,3 +27,7 @@ https://neptune.ai/blog/monte-carlo-simulation
 https://www.cs.umd.edu/sites/default/files/scholarly_papers/Rajkumar_1.pdf
 https://www.rockwestsolutions.com/data-analysis-methods/gaming-uncertainty-a-brief-introduction-to-monte-carlo-methods/
 https://beej.us/blog/data/monte-carlo-method-game-ai/
+best game design: https://gameanalytics.com/blog/incredible-game-design-examples/
+best game design: https://www.quora.com/What-could-be-the-good-ideas-for-designing-a-game
+best game design: https://www.voodoo.io/games
+
