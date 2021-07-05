@@ -1,4 +1,12 @@
 ## Simulation_and_game_dev
 
-# Houdini in video game
-https://www.youtube.com/watch?v=H4r_69WNE9o
+#Outline
+Week
+9
+10
+11
+12
+13
+14
+15
+
