@@ -10,3 +10,5 @@
 | 13  | Natural effect: wind, water, rain, ... ghost of tsushima  |
 | 14  | Multiplayer game  |
 | 15  | Publish your game  |
+
+https://www.cs.cornell.edu/courses/cs3152/2019sp/labs/design1/
