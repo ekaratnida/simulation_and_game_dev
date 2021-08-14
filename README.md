@@ -5,10 +5,10 @@
 | --- | --- |
 | 9   | Intro. to gameplay design, minecraft creator, his youtube and gamejam, random (replacement&non-replacement, linked list, เกมส์เศรษฐี, บันไดงู, สุ่มเลือกของ, จับคู่, <br> - Game story example: https://www.giantbomb.com/profile/flipyap/lists/my-favorite-examples-of-video-game-storytelling/28398/ <br> - Resident evil 7 prototype : https://www.youtube.com/watch?v=zAynp4MSIfw <br> - Last of us https://www.youtube.com/watch?v=tRRtYZfCeIE&list=PLBp7G5OZOfdv0YqLkPMxjaBMPHWEsWJab&index=2 |
 | 10  | Environment design with Realtime CSG I |
-| 11  | Environment design with Realtime CSG II |
-| 12  | Special effect: bullet, bomb, ...  |
-| 13  | Natural effect: wind, water, rain, ... ghost of tsushima  |
-| 14  | Multiplayer game  |
-| 15  | Publish your game  |
+| 11  | Environment design with Realtime CSG II (add fps controller) |
+| 12  | Events in game, e.g., open a door, pick an item, ... |
+| 13  | Special effects |
+| 14  | Cinematics, cutscenes  |
+| 15  | Multiplayer  |
 
 https://www.cs.cornell.edu/courses/cs3152/2019sp/labs/design1/
