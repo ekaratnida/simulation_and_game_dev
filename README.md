@@ -3,7 +3,7 @@
 
 | Week  | topic |
 | --- | --- |
-| 9   | Intro. to gameplay design, minecraft creator, his youtube and gamejam, random (replacement&non-replacement, linked list, เกมส์เศรษฐี, บันไดงู, สุ่มเลือกของ, จับคู่  |
+| 9   | Intro. to gameplay design, minecraft creator, his youtube and gamejam, random (replacement&non-replacement, linked list, เกมส์เศรษฐี, บันไดงู, สุ่มเลือกของ, จับคู่, https://www.giantbomb.com/profile/flipyap/lists/my-favorite-examples-of-video-game-storytelling/28398/  |
 | 10  | Environment design with Realtime CSG I |
 | 11  | Environment design with Realtime CSG II |
 | 12  | Special effect: bullet, bomb, ...  |
