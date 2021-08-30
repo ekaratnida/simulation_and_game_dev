@@ -16,3 +16,7 @@ https://www.cs.cornell.edu/courses/cs3152/2019sp/labs/design1/
 https://towardsdatascience.com/tagged/unity3d
 
 https://github.com/PrinzEugn/Scatterplot_Standalone
+
+Case study
+1. Spider man https://www.youtube.com/watch?v=OEaGEaCUq3g
+2. 
