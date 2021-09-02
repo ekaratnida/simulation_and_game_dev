@@ -7,7 +7,7 @@
 | 10  | Environment design with Realtime CSG I (Tower defense) |
 | 11  | Environment design with Realtime CSG II (add fps controller) |
 | 12  | Events in game, e.g., open a door, pick an item, ... |
-| 13  | Special effects |
+| 13  | Special effects, UI |
 | 14  | Cinematics, cutscenes  |
 | 15  | Multiplayer  |
 
