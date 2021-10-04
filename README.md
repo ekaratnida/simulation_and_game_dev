@@ -1,4 +1,4 @@
-# Outline
+# BADS 7709 Simulation and Game Development (part 2)
 ## Importat!!! What makes a game fun? 
 ## E.g., how to turn the real olympic sports to video games, e.g., Runing, Long jump, swimming, ... 
 ![image](https://user-images.githubusercontent.com/69342162/135783266-dcb3b6f9-86b1-4b78-9b42-cee6dfa160af.png)
