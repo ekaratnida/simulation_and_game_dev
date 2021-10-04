@@ -1,0 +1,5 @@
+- Install realtime csg: Goto menu > window > package manager > "Search realtime csg" > install
+- Tutorial1 https://www.youtube.com/watch?v=uqaiUMuGlRc
+- Exercise 1 <br>
+- FPSController for testing your environment <br>
+- Assests/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab <br>
