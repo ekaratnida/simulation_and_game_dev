@@ -1,6 +1,8 @@
 # Outline
 ## Importat!!! What makes a game fun? 
-## How to turn the real olympic sports to video games, e.g., Runing, Long jump, swimming, ... 
+## E.g., how to turn the real olympic sports to video games, e.g., Runing, Long jump, swimming, ... 
+![image](https://user-images.githubusercontent.com/69342162/135783266-dcb3b6f9-86b1-4b78-9b42-cee6dfa160af.png)
+Ref: https://olympics.com/en/news/tokyo-2020-unveils-games-pictograms
 
 | Week  | Topic |
 | --- | --- |
