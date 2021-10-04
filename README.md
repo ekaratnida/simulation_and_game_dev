@@ -6,7 +6,7 @@ Ref: https://olympics.com/en/news/tokyo-2020-unveils-games-pictograms
 
 | Week  | Topic |
 | --- | --- |
-| 9   | Intro. to gameplay design, <br> minecraft creator mojang (his youtube and gamejam), <br> random (replacement&non-replacement, linked list, เกมส์เศรษฐี, บันไดงู, สุ่มเลือกของ, จับคู่, <br> - Game story example: https://www.giantbomb.com/profile/flipyap/lists/my-favorite-examples-of-video-game-storytelling/28398/ <br> - Resident evil 7 prototype : https://www.youtube.com/watch?v=zAynp4MSIfw <br> - Last of us https://www.youtube.com/watch?v=tRRtYZfCeIE&list=PLBp7G5OZOfdv0YqLkPMxjaBMPHWEsWJab&index=2 <br> Paper please.|
+| 9   | Intro. to gameplay design, <br> minecraft creator mojang (his youtube and gamejam), <br> random (replacement&non-replacement, linked list, เกมส์เศรษฐี, บันไดงู, สุ่มเลือกของ, จับคู่, <br> - Game story example: https://www.giantbomb.com/profile/flipyap/lists/my-favorite-examples-of-video-game-storytelling/28398/ <br> - Resident evil 7 prototype : https://www.youtube.com/watch?v=zAynp4MSIfw <br> - Last of us https://www.youtube.com/watch?v=tRRtYZfCeIE&list=PLBp7G5OZOfdv0YqLkPMxjaBMPHWEsWJab&index=2 <br> Paper please. <br> slide: https://drive.google.com/drive/folders/117hZYwFf-JjErdUx-5SUK35DPvmuGptY?usp=sharing|
 | 10  | Environment design with Realtime CSG I |
 | 11  | Environment design with Realtime CSG II |
 | 12  | Gameplay design I |
