@@ -6,8 +6,8 @@ Ref: https://olympics.com/en/news/tokyo-2020-unveils-games-pictograms
 
 | Week  | Topic |
 | --- | --- |
-| 9   | 1) Introduction to gameplay design <br> 2) Minecraft creator mojang (his youtube and gamejam https://www.youtube.com/watch?v=BES9EKK4Aw4) <br> 3) Random process (replacement&non-replacement, linked list, sort, เกมส์เศรษฐี, บันไดงู, สุ่มเลือกของ, จับคู่) <br> --> Matching game 1: https://www.youtube.com/watch?v=XrB7sdxWsWQ  <br> --> Matching game 2: https://youtu.be/uyf0fi73r0c <br> 4) Examples of game story: https://www.giantbomb.com/profile/flipyap/lists/my-favorite-examples-of-video-game-storytelling/28398/ <br> 5) Resident evil 7 prototype : https://www.youtube.com/watch?v=zAynp4MSIfw <br> 6) Last of us https://www.youtube.com/watch?v=tRRtYZfCeIE&list=PLBp7G5OZOfdv0YqLkPMxjaBMPHWEsWJab&index=2 <br> 7) Game "Paper please" https://store.steampowered.com/app/239030/Papers_Please/ <br> 8) Useful slides: https://drive.google.com/drive/folders/117hZYwFf-JjErdUx-5SUK35DPvmuGptY?usp=sharing|
-| 10  | Environment design with Realtime CSG I |
+| 9   | 1) Introduction to gameplay design <br> 2) Minecraft creator mojang (his youtube and gamejam https://www.youtube.com/watch?v=BES9EKK4Aw4) <br> 3) Random process (replacement&non-replacement, linked list, sort, เกมส์เศรษฐี, บันไดงู, สุ่มเลือกของ, จับคู่) Scene9-1 and Scene9-2 <br> --> Matching game 1: https://www.youtube.com/watch?v=XrB7sdxWsWQ  <br> --> Matching game 2: https://youtu.be/uyf0fi73r0c <br> 4) Examples of game story: https://www.giantbomb.com/profile/flipyap/lists/my-favorite-examples-of-video-game-storytelling/28398/ <br> 5) Resident evil 7 prototype : https://www.youtube.com/watch?v=zAynp4MSIfw <br> 6) Last of us https://www.youtube.com/watch?v=tRRtYZfCeIE&list=PLBp7G5OZOfdv0YqLkPMxjaBMPHWEsWJab&index=2 <br> 7) Game "Paper please" https://store.steampowered.com/app/239030/Papers_Please/ <br> 8) Useful slides: https://drive.google.com/drive/folders/117hZYwFf-JjErdUx-5SUK35DPvmuGptY?usp=sharing|
+| 10  | Environment design with Realtime CSG I (Scene10) |
 | 11  | Environment design with Realtime CSG II |
 | 12  | Gameplay design I |
 | 13  | Gameplay design II |
