@@ -6,7 +6,7 @@ Ref: https://olympics.com/en/news/tokyo-2020-unveils-games-pictograms
 
 | Week  | Topic |
 | --- | --- |
-| 9   | Intro. to gameplay design, <br> - minecraft creator mojang (his youtube and gamejam), <br> - random (replacement&non-replacement, linked list, เกมส์เศรษฐี, บันไดงู, สุ่มเลือกของ, จับคู่, <br> - Example of game story: https://www.giantbomb.com/profile/flipyap/lists/my-favorite-examples-of-video-game-storytelling/28398/ <br> - Resident evil 7 prototype : https://www.youtube.com/watch?v=zAynp4MSIfw <br> - Last of us https://www.youtube.com/watch?v=tRRtYZfCeIE&list=PLBp7G5OZOfdv0YqLkPMxjaBMPHWEsWJab&index=2 <br> - Paper please. https://store.steampowered.com/app/239030/Papers_Please/ <br> - Slide: https://drive.google.com/drive/folders/117hZYwFf-JjErdUx-5SUK35DPvmuGptY?usp=sharing|
+| 9   | Intro. to gameplay design, <br> - minecraft creator mojang (his youtube and gamejam https://www.youtube.com/watch?v=BES9EKK4Aw4) <br> - random (replacement&non-replacement, linked list, sort, เกมส์เศรษฐี, บันไดงู, สุ่มเลือกของ, จับคู่) <br> - Example of game story: https://www.giantbomb.com/profile/flipyap/lists/my-favorite-examples-of-video-game-storytelling/28398/ <br> - Resident evil 7 prototype : https://www.youtube.com/watch?v=zAynp4MSIfw <br> - Last of us https://www.youtube.com/watch?v=tRRtYZfCeIE&list=PLBp7G5OZOfdv0YqLkPMxjaBMPHWEsWJab&index=2 <br> - Paper please. https://store.steampowered.com/app/239030/Papers_Please/ <br> - Slide: https://drive.google.com/drive/folders/117hZYwFf-JjErdUx-5SUK35DPvmuGptY?usp=sharing|
 | 10  | Environment design with Realtime CSG I |
 | 11  | Environment design with Realtime CSG II |
 | 12  | Gameplay design I |
@@ -14,14 +14,11 @@ Ref: https://olympics.com/en/news/tokyo-2020-unveils-games-pictograms
 | 14  | UI and scene management |
 | 15  | Multiplayer  |
 
-
 ## Referece:
 
-https://www.cs.cornell.edu/courses/cs3152/2019sp/labs/design1/
-
-https://towardsdatascience.com/tagged/unity3d
-
-https://github.com/PrinzEugn/Scatterplot_Standalone
+1. https://www.cs.cornell.edu/courses/cs3152/2019sp/labs/design1/
+2. https://towardsdatascience.com/tagged/unity3d
+3. https://github.com/PrinzEugn/Scatterplot_Standalone
 
 ## Case study
 1. Spider man https://www.youtube.com/watch?v=OEaGEaCUq3g
