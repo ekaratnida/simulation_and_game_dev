@@ -1,5 +1,5 @@
 # BADS 7709 Simulation and Game Development (part 2)
-## Importat!!! What makes a game fun and sell? 
+## Important!!! What makes a game fun and sell? 
 ## E.g., how to turn real Olympic sports into video games? E.g., Runing, Long jump, Swimming, ... 
 ![image](https://user-images.githubusercontent.com/69342162/135783266-dcb3b6f9-86b1-4b78-9b42-cee6dfa160af.png)
 Ref: https://olympics.com/en/news/tokyo-2020-unveils-games-pictograms
