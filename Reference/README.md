@@ -31,3 +31,6 @@ best game design: https://gameanalytics.com/blog/incredible-game-design-examples
 best game design: https://www.quora.com/What-could-be-the-good-ideas-for-designing-a-game </br>
 best game design: https://www.voodoo.io/games </br>
 
+# Resources
+https://catlikecoding.com/unity/tutorials/ </br>
+https://realtimecsg.com/#modeling-with-brushes
