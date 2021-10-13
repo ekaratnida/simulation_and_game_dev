@@ -5,7 +5,7 @@
 Ref: https://olympics.com/en/news/tokyo-2020-unveils-games-pictograms
 | Week  | Topic |
 | --- | --- |
-| 9   | 1) Introduction to gameplay design <br> 2) Minecraft creator mojang (his youtube and gamejam https://www.youtube.com/watch?v=BES9EKK4Aw4  and https://www.youtube.com/watch?v=zdwhNqOiaEA&list=PLgAujBKarXXoMxJDyi1Am4yvfbHYWRwOC) <br> 3) Random process (replacement&non-replacement, linked list, sort, เกมส์เศรษฐี, บันไดงู, สุ่มเลือกของ, จับคู่) <br> --> Scene9-1 and Scene9-2 <br> --> Matching game 1: https://www.youtube.com/watch?v=XrB7sdxWsWQ  <br> --> Matching game 2: https://youtu.be/uyf0fi73r0c <br> 4) Examples of game story: https://www.giantbomb.com/profile/flipyap/lists/my-favorite-examples-of-video-game-storytelling/28398/ <br> 5) Resident evil 7 prototype : https://www.youtube.com/watch?v=zAynp4MSIfw <br> 6) Last of us https://www.youtube.com/watch?v=tRRtYZfCeIE&list=PLBp7G5OZOfdv0YqLkPMxjaBMPHWEsWJab&index=2 <br> 7) Game "Paper please" https://store.steampowered.com/app/239030/Papers_Please/ <br> 8) Useful slides: https://drive.google.com/drive/folders/117hZYwFf-JjErdUx-5SUK35DPvmuGptY?usp=sharing (Slide 01, 02, 08)|
+| 9   | 1) Introduction to gameplay design <br><br> 2) Minecraft creator mojang (his youtube and gamejam https://www.youtube.com/watch?v=BES9EKK4Aw4  and https://www.youtube.com/watch?v=zdwhNqOiaEA&list=PLgAujBKarXXoMxJDyi1Am4yvfbHYWRwOC) <br><br> 3) Random process (replacement & non-replacement, list, sort, etc. E.g., เกมส์เศรษฐี, บันไดงู, สุ่มเลือกของ, Matching game part1: https://www.youtube.com/watch?v=XrB7sdxWsWQ part2: https://youtu.be/uyf0fi73r0c ) <br><br> Unity example: week9/scene9-1.unitypackage 4) Examples of game story: https://www.giantbomb.com/profile/flipyap/lists/my-favorite-examples-of-video-game-storytelling/28398/ <br><br> 5) Resident evil 7 prototype : https://www.youtube.com/watch?v=zAynp4MSIfw <br><br> 6) Last of us https://www.youtube.com/watch?v=tRRtYZfCeIE&list=PLBp7G5OZOfdv0YqLkPMxjaBMPHWEsWJab&index=2 <br><br> 7) Game "Paper please" https://store.steampowered.com/app/239030/Papers_Please/ <br><br> 8) Slide 01, 02, 08: https://drive.google.com/drive/folders/117hZYwFf-JjErdUx-5SUK35DPvmuGptY?usp=sharing <br> |
 | 10  | Environment design with Realtime CSG I (Scene10) |
 | 11  | Environment design with Realtime CSG II (Slide 09) |
 | 12  | Gameplay design I (Slide 03, 04) |
@@ -14,7 +14,6 @@ Ref: https://olympics.com/en/news/tokyo-2020-unveils-games-pictograms
 | 15  | Multiplayer  |
 
 ## Referece:
-
 1. https://www.cs.cornell.edu/courses/cs3152/2019sp/labs/design1/
 2. https://towardsdatascience.com/tagged/unity3d
 3. https://github.com/PrinzEugn/Scatterplot_Standalone
