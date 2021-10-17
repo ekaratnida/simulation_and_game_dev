@@ -21,4 +21,5 @@
 
 ### 4) Slide 01 (p.9~), and 02: https://drive.google.com/drive/folders/117hZYwFf-JjErdUx-5SUK35DPvmuGptY?usp=sharing
 
-## Exercise: Sketching your idea of turning Olympic sports into games
+## Exercise
+   - Sketching your idea of turning Olympic sports into games
