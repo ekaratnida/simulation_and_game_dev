@@ -19,7 +19,8 @@
    - part2: https://youtu.be/uyf0fi73r0c <br>
    - Unity example : week9/scene9-1.unitypackage
 
-### 4) Slide 01 (p.9~), and 02: https://drive.google.com/drive/folders/117hZYwFf-JjErdUx-5SUK35DPvmuGptY?usp=sharing
+### 4) Slide 
+   - 01 (p.9~), and 02: https://drive.google.com/drive/folders/117hZYwFf-JjErdUx-5SUK35DPvmuGptY?usp=sharing
 
 ## Exercise
    - Sketching your idea of turning Olympic sports into games
