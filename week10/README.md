@@ -1,5 +1,11 @@
 # Realtime CSG https://realtimecsg.com/#modeling-with-brushes
+## Control
+### Input
+Mouse: https://docs.unity3d.com/ScriptReference/Input.html <br>
+Press space: https://docs.unity3d.com/ScriptReference/Input.GetKeyDown.html <br>
+Add force: https://docs.unity3d.com/ScriptReference/Rigidbody.AddForce.html
 
+## realtime csg
 <font size="5"> 1. Install realtime csg: Goto menu > window > package manager > "Search realtime csg" > install </font>
 
 <font size="5"> 2. Tutorial1: <br>
