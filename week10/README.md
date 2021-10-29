@@ -5,7 +5,7 @@ Mouse: https://docs.unity3d.com/ScriptReference/Input.html <br>
 Press space: https://docs.unity3d.com/ScriptReference/Input.GetKeyDown.html <br>
 Add force: https://docs.unity3d.com/ScriptReference/Rigidbody.AddForce.html
 
-## Player
+## 1. Player
 ![week10-1](https://user-images.githubusercontent.com/69342162/139366010-00096599-0e82-4963-a479-7d297bbd4f60.png)
 
 
@@ -62,6 +62,52 @@ public class Player2 : MonoBehaviour
 }
 ```
 
+## 2. Ball
+
+![image](https://user-images.githubusercontent.com/69342162/139366596-0e0932e7-22db-4950-99b7-cc20401c75fb.png)
+
+``` c#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Ball : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    public int speedX = 0;
+    public int speedZ = 0;
+    int score = 0;
+    // Update is called once per frame
+    void Update()
+    {
+        var position = new Vector3(speedX,0,0);
+        transform.Translate(position * Time.deltaTime);
+
+        if(transform.position.x < -5){
+            ++score;
+            transform.position = new Vector3(5,1,0);
+        } 
+    }
+
+    GUIStyle style = new GUIStyle();
+    void OnGUI()
+    {
+        style.fontSize = 20; //change the font size
+        GUI.Label(new Rect(10, 10, 100, 20), score.ToString(),style);
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        transform.position = new Vector3(5,1,0);
+    }
+}
+
+```
 ## realtime csg
 <font size="5"> 1. Install realtime csg: Goto menu > window > package manager > "Search realtime csg" > install </font>
 
