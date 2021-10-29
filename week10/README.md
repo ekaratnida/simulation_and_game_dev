@@ -106,8 +106,15 @@ public class Ball : MonoBehaviour
         transform.position = new Vector3(5,1,0);
     }
 }
-
 ```
+![image](https://user-images.githubusercontent.com/69342162/139370817-cf675023-c68c-4ad5-a70c-265428d86880.png)
+https://docs.unity3d.com/Manual/class-Rigidbody.html
+
+## Exercise
+1. Deduct your score if hit the ball.
+2. What is trigger? Why not assigned rigidbody component to the ball?
+3. Add a new gameplay
+
 ## realtime csg
 <font size="5"> 1. Install realtime csg: Goto menu > window > package manager > "Search realtime csg" > install </font>
 
