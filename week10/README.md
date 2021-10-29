@@ -165,7 +165,9 @@ public class AnimController : MonoBehaviour
 2. What is trigger? Why not assigned rigidbody component to the ball?
 3. Add a new gameplay
 4. Change the player and ball to model & animatios.
-Animation tutorial [![Animation](https://img.youtube.com/vi/UOb6IK43cJQ/0.jpg)](https://www.youtube.com/watch?v=UOb6IK43cJQ)
+
+Animation tutorial
+[![Animation](https://img.youtube.com/vi/UOb6IK43cJQ/0.jpg)](https://www.youtube.com/watch?v=UOb6IK43cJQ)
 
 
 ## realtime csg
