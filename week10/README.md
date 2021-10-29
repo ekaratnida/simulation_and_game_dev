@@ -108,12 +108,65 @@ public class Ball : MonoBehaviour
 }
 ```
 ![image](https://user-images.githubusercontent.com/69342162/139370817-cf675023-c68c-4ad5-a70c-265428d86880.png)
-https://docs.unity3d.com/Manual/class-Rigidbody.html
+Reference: https://docs.unity3d.com/Manual/class-Rigidbody.html
+
+## 3. Model and animation
+![image](https://user-images.githubusercontent.com/69342162/139386141-45a4b339-6279-4941-a30c-c24738798d2e.png)
+``` c#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class AnimController : MonoBehaviour
+{
+
+    private Animator animator;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+       animator =  gameObject.GetComponent<Animator>();
+    }
+
+    public float speedz = 2f;
+    // Update is called once per frame
+    void Update()
+    {
+        if(Input.GetKey(KeyCode.W)){
+            animator.SetBool("isWalking",true);
+            transform.Translate(0,0, speedz * Time.deltaTime);
+           
+        } 
+        else if(Input.GetKeyUp(KeyCode.W)){
+            animator.SetBool("isWalking",false);
+        }
+
+         if(Input.GetKey(KeyCode.S)){
+            animator.SetBool("isWalking",true);
+            transform.Translate(0,0, -speedz * Time.deltaTime);
+           
+        } 
+        else if(Input.GetKeyUp(KeyCode.S)){
+            animator.SetBool("isWalking",false);
+        }
+
+        if(Input.GetKeyDown(KeyCode.Space) || Input.GetButtonDown("Fire1")){
+            animator.SetBool("isJump",true);
+        
+        }else if(Input.GetKeyUp(KeyCode.Space) || Input.GetButtonUp("Fire1")){
+            animator.SetBool("isJump",false);
+        }
+    }
+}
+```
 
 ## Exercise
 1. Deduct your score if hit the ball.
 2. What is trigger? Why not assigned rigidbody component to the ball?
 3. Add a new gameplay
+4. Change the player and ball to model & animatios.
+Animation tutorial [![Animation](https://img.youtube.com/vi/UOb6IK43cJQ/0.jpg)](https://www.youtube.com/watch?v=UOb6IK43cJQ)
+
 
 ## realtime csg
 <font size="5"> 1. Install realtime csg: Goto menu > window > package manager > "Search realtime csg" > install </font>
