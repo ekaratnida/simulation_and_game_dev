@@ -79,3 +79,4 @@ public class CircleFormation : MonoBehaviour
 
 ### Exercise
 1. Fire a block. If it hits any object, connect it to that one. You can use a block to cross a high wall or as a bridge.
+   Example, - [![Hitori](https://img.youtube.com/vi/Evc2zNT09gQ/0.jpg)](https://www.youtube.com/clip/UgkxqXyRfZhT7SSpT9qLCXQhuRMkPj4yjGER) 
