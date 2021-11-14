@@ -25,6 +25,7 @@ Ref: https://olympics.com/en/news/tokyo-2020-unveils-games-pictograms
 1. https://store.steampowered.com/app/1734230/WHATEVER/?fbclid=IwAR1TJul_rX-yfPOHPGv1ORq2oGHnG4RCIwAlhEtG0Tgx71BGFb40cBrhSO0
 2. https://store.steampowered.com/app/914620/Mist_Survival/
 3. https://store.steampowered.com/app/1307890/Kingdoms_Reborn/
+4. http://www.gamesquare.co.th/
 
 ## List of games that you should (must) create them (prototype) after this course.
 1. Pong
