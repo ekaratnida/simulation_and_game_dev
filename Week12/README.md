@@ -28,8 +28,9 @@
    
    - Assests/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab <br> </font>
 
-### 4. Video Tutorial:
+### 4. Tutorial:
 
    - https://www.youtube.com/watch?v=uqaiUMuGlRc <br>
-   - https://www.youtube.com/watch?v=TUkKNoIQ1bk <br> </font>
+   - https://www.youtube.com/watch?v=TUkKNoIQ1bk <br>
+   - https://realtimecsg.com/#modeling-with-brushes
 
