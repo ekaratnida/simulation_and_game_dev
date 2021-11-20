@@ -27,6 +27,13 @@
    3.5 Use FPS to explore your world
    
    - Assests/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab <br> </font>
+   - Add to line3: using UnityEngine.UI;
+   - line12: public Text camSwitchButton;
+
+[1:35 PM] กิตติศักดิ์ รังสีปัญญา
+SimpleActivatorMenu.cs
+
+
 
 ### 4. Tutorial:
 
