@@ -33,3 +33,6 @@ Ref: https://olympics.com/en/news/tokyo-2020-unveils-games-pictograms
 3. Keep fruits
 4. Tic-Tac-Toe
 5. Zooma
+
+Notch
+https://www.youtube.com/watch?v=zdwhNqOiaEA&list=PLgAujBKarXXoMxJDyi1Am4yvfbHYWRwOC&index=1
