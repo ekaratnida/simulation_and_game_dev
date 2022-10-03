@@ -18,8 +18,8 @@ bgcolor = 255, 255, 255
 
 #x = np.array([[random.randint(100,width-100) for r in range(5) ]]).T
 #y = np.array([random.randint(100,height-100) for r in range(5) ])
-x = np.array([[0,2,3, 4]]).T # or x = np.array([[0],[2],[3]])
-y = np.array([5,3,4, 3.5])
+x = np.array([[0,1, 2,3, 4,5]]).T # or x = np.array([[0],[2],[3]])
+y = np.array([5,4, 3,2, 1.5, 1])
 z = zip(x,y)
 #print(x," ",y)
 
