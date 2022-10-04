@@ -1,7 +1,6 @@
 import numpy as np
 import pygame
 
-
 def cost_function(theta0, theta1, x, y, m):
     c = sum([(theta0 + theta1*x[i] - y[i])**2 for i in range(m)])
     return c
@@ -9,6 +8,7 @@ def cost_function(theta0, theta1, x, y, m):
 y = 0
 dir = 1
 running = 1
+clickPos = []
 width = 600
 height = 600
 screen = pygame.display.set_mode((width, height))
@@ -18,11 +18,10 @@ bgcolor = 255, 255, 255
 
 #x = np.array([[random.randint(100,width-100) for r in range(5) ]]).T
 #y = np.array([random.randint(100,height-100) for r in range(5) ])
-x = np.array([[0,1, 2,3, 4,5]]).T # or x = np.array([[0],[2],[3]])
-y = np.array([5,4, 3,2, 1.5, 1])
+x = np.array([[0, 1, 2, 3, 4, 5]]).T # or x = np.array([[0],[2],[3]])
+y = np.array([1, 1, 1.2, 2.5, 4, 6])
 z = zip(x,y)
 #print(x," ",y)
-
 
 #GD
 alpha = 0.001 # learning rate
@@ -37,15 +36,18 @@ print("Init cost = ",J)
 ep = 0.00000001
 
 while running:
+
     event = pygame.event.poll()
+    
     if event.type == pygame.QUIT:
         running = 0
 
-    screen.fill(bgcolor)
-    #pygame.draw.line(screen, linecolor, (0, y), (width-1, y))
+    if event.type == pygame.MOUSEBUTTONUP:
+        pos = pygame.mouse.get_pos()
+        print(pos)
+        clickPos.append(pos)
     
-    #for w,h in z:
-    #print(w,",",h)
+    screen.fill(bgcolor)
 
     if not converged:
 
@@ -76,14 +78,17 @@ while running:
 
     for i,j in zip(x.flatten(),y):
         #print(i," ",j)
-        pygame.draw.circle(screen, pointColor, (i*100, j*100), 4, 0)
+        pygame.draw.circle(screen, pointColor, (i*100, width - (j*100)), 4, 0)
     
-    startPos = (0,t0[0]*100)
-    endPos = (400,(t0[0]*100) + (t1[0]*400))
+    startPos = (0,width-(t0[0]*100))
+    endPos = (width,width - ((t0[0]*100) + (t1[0]*width)))
     pygame.draw.line(screen, lineColor, startPos, endPos, 2)
+    for p in clickPos:
+        pygame.draw.circle(screen, pointColor, p, 4, 0)
+
 
     #y += dir
     #if y == 0 or y == height-1: dir *= -1
 
     pygame.display.flip()
-    #pygame.time.delay(1)
+    pygame.time.delay(100)
