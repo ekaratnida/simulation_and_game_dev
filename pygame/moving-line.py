@@ -42,7 +42,7 @@ while running:
     if event.type == pygame.QUIT:
         running = 0
 
-    if event.type == pygame.MOUSEBUTTONUP:
+    if event.type == pygame.MOUSEBUTTONDOWN:
         pos = pygame.mouse.get_pos()
         print(pos)
         clickPos.append(pos)

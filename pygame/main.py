@@ -16,7 +16,7 @@ def run_game(width, height, fps):
     active_scene = TitleScene(manager,screen)
 
     while active_scene != None:
-        time_delta = clock.tick(60)/1000.0
+        time_delta = clock.tick(fps)/1000.0
         pressed_keys = pygame.key.get_pressed()
         
         # Event filtering
@@ -48,4 +48,4 @@ def run_game(width, height, fps):
         clock.tick(fps)
 
 if __name__ == "__main__":
-    run_game(400, 300, 60)
+    run_game(600, 600, 60)

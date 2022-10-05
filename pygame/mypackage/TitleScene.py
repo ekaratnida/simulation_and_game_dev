@@ -1,6 +1,7 @@
 
 from .SceneBase import SceneBase
 from .RegressionScene import RegressionScene
+from .ClassificationScene import ClassificationScene
 import pygame
 import pygame_gui
 
@@ -17,12 +18,12 @@ class TitleScene(SceneBase):
         self.screen = screen 
 
         self.regression_btn = pygame_gui.elements.UIButton(
-                relative_rect=pygame.Rect((self.screen.get_width()/2, self.screen.get_height()/2), (100, 50)),
+                relative_rect=pygame.Rect((self.screen.get_width()/2 - 100, self.screen.get_height()/2), (200, 50)),
                 text='Regression',
                 manager=self.manager)
         
         self.classification_btn = pygame_gui.elements.UIButton(
-                relative_rect=pygame.Rect((self.screen.get_width()/2, self.screen.get_height()/4), (100, 50)),
+                relative_rect=pygame.Rect((self.screen.get_width()/2 - 100, self.screen.get_height()/3), (200, 50)),
                 text='Classification',
                 manager=self.manager)
     
@@ -33,12 +34,14 @@ class TitleScene(SceneBase):
                 if event.ui_element == self.regression_btn:
                     print('Regression')
                     self.regression_btn.visible = False
+                    self.classification_btn.visible = False
                     self.SwitchToScene(RegressionScene(self.manager, self.screen))
                 
                 if event.ui_element == self.classification_btn:
                     print('Classification')
+                    self.regression_btn.visible = False
                     self.classification_btn.visible = False
-                    self.SwitchToScene(RegressionScene(self.manager, self.screen))
+                    self.SwitchToScene(ClassificationScene(self.manager, self.screen))
 
             self.manager.process_events(event)
     
