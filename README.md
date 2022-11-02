@@ -1,7 +1,10 @@
-TNI class (3 Nov 2022) </br>
-Syllabus: https://docs.google.com/spreadsheets/d/1PogRjp1EWV4szRt00xBcxAnKXYWvMtsu8XsRGKNIRyA/edit#gid=0 </br>
-Materials: https://drive.google.com/file/d/1i1X8V3RQJTZPu_obieZum8sm-EcfsGcl/view?usp=share_link
+# NI class (3 Nov 2022) </br>
+- Syllabus: https://docs.google.com/spreadsheets/d/1PogRjp1EWV4szRt00xBcxAnKXYWvMtsu8XsRGKNIRyA/edit#gid=0 </br>
+- Materials: https://drive.google.com/file/d/1i1X8V3RQJTZPu_obieZum8sm-EcfsGcl/view?usp=share_link
 
+</br></br>
+**********************
+</br>
 
 
 # BADS 7709 Simulation and Game Development (part 2)
